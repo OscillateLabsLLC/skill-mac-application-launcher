@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.1.0 (2025-06-11)
+
+
+### Features
+
+* add sound feedback ([#22](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/22)) ([33b0bc4](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/33b0bc4603c435dd8d112f4e7cd9876ef69e1a50))
+* close application intent ([#11](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/11)) ([33d678d](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/33d678d84e0cf56db7a8b79a3de842b51a9aabae))
+* disable window manager setting ([#33](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/33)) ([2f84984](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/2f84984752597bb7925d998605df9b1fc78c3804))
+* mac OS refactor ([cb336ff](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/cb336ff2b00838aa7c21cf61590a64059eb7afba))
+* switch_to_window ([#25](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/25)) ([197c4cf](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/197c4cf078fea5d116827ff420e5cc7b8edaafcb))
+
+
+### Bug Fixes
+
+* allow workshop 3.0.0 ([#40](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/40)) ([fcbeb16](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/fcbeb16d4da8640df54abdfba046ec2d9fc746e4))
+* close_by_window ([#18](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/18)) ([bdf9806](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/bdf980671651f30543c0498d5d7583883b942b6c))
+* improve desktop file parser ([#15](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/15)) ([b26bde4](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/b26bde4dcfb3bbcf6cae7a783b6c0ab05dfac567))
+* resource loading ([#13](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/13)) ([0ec0a21](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/0ec0a21cfe94d27a8e80e2b52e9dc3cb8a3be069))
+* skilljson ([#37](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/37)) ([feaddbf](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/feaddbf297e9c595efd9c3d2a34244590d79a9b9))
+* update_requirements ([#9](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/9)) ([f1e15af](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/f1e15af988c7bbe985ecf286b569d51d4454610e))
+* wayland compat ([#27](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/27)) ([0c7667e](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/0c7667e787619df4393435b02684f297b82a0572))
+* workshop 6.0.0 compat ([#61](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/issues/61)) ([a3cf93b](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/a3cf93b937e7e6aa99a1cc6f888326f78842ae04))
+
 ## [0.5.14a1](https://github.com/OpenVoiceOS/ovos-skill-application-launcher/tree/0.5.14a1) (2025-06-07)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-application-launcher/compare/V0.5.13...0.5.14a1)
