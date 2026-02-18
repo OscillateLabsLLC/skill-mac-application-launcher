@@ -46,8 +46,11 @@ packages = ["skill_mac_application_launcher"]
 
 [tool.pytest.ini_options]
 minversion = "7.0"
-addopts = "-ra -q --cov=skill_mac_application_launcher --cov-report=term-missing"
+addopts = "-ra -q --cov=skill_mac_application_launcher --cov-report=term-missing --cov-report=html"
 testpaths = ["tests"]
+
+[tool.coverage.run]
+omit = ["skill_mac_application_launcher/version.py"]
 
 [tool.ruff]
 line-length = 119
