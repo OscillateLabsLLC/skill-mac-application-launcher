@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.0...v1.0.1) (2026-02-18)
+
+
+### Bug Fixes
+
+* logic in switch prompt ([5dfbf11](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/5dfbf11c5e31e77ebcb569745cbf4e2558f491f6))
+* logic in switch prompt ([ca31f76](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/ca31f76afadf4a33aff1833af1517226509bccba))
+
 ## 0.1.0 (2025-06-11)
 
 
