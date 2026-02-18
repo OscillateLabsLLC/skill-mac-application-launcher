@@ -140,7 +140,7 @@ class MacApplicationLauncherSkill(FallbackSkill):
                         if self.macos_controller.switch_to_app(app):
                             self.acknowledge()
                         return True
-        if not switch:
+        if switch != "yes":
             for _ in range(5):
                 if launch not in ["no", "yes"]:
                     launch = self.ask_yesno("confirm_launch")
