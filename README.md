@@ -1,6 +1,6 @@
 # <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/svgs/solid/spinner.svg' card_color='#22a7f0' width='50' height='50' style='vertical-align:bottom'/> Mac Application Launcher
 
-[![Status: Security Fixes Only](https://img.shields.io/badge/status-security%20fixes%20only-orange)](https://github.com/OscillateLabsLLC/.github/blob/main/SUPPORT_STATUS.md)
+[![Status: Security Fixes Only](https://img.shields.io/badge/status-security%20fixes%20only-yellow)](https://github.com/OscillateLabsLLC/.github/blob/main/SUPPORT_STATUS.md)
 
 Launch macOS applications by voice
 
