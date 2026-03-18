@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.1...v1.0.2) (2026-03-17)
+
+
+### Bug Fixes
+
+* correct status badge color from orange to yellow ([99cee9c](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/99cee9cd9a05a8184f94b1e4f76fc2470a3520f2))
+
 ## [1.0.1](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.0...v1.0.1) (2026-02-18)
 
 
