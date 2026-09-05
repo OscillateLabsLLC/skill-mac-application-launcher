@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.3](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.2...v1.0.3) (2026-09-05)
+
+
+### Bug Fixes
+
+* **deps:** bump setuptools to 81.0.0, pytest, pygments ([49d96b2](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/49d96b2ecc941fc6c8f7f16a5790385a4b5634ce))
+* **deps:** bump urllib3, orjson, requests, filelock, idna for Dependabot alerts ([434c32f](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/434c32fb6f29cab1f4178a3312c06743e5b41905))
+* **deps:** bump urllib3, orjson, requests, filelock, idna for Dependabot alerts ([133a3c3](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/133a3c3fbd01a595ad48ced042ea53d5678a3863))
+
 ## [1.0.2](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.1...v1.0.2) (2026-03-17)
 
 
