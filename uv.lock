@@ -2,6 +2,9 @@ version = 1
 revision = 3
 requires-python = ">=3.10"
 
+[manifest]
+constraints = [{ name = "setuptools", specifier = "<82" }]
+
 [[package]]
 name = "build"
 version = "1.2.2.post1"

@@ -2,6 +2,10 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
+[tool.uv]
+# ovos-plugin-manager imports pkg_resources, removed in setuptools 82.
+constraint-dependencies = ["setuptools<82"]
+
 [project]
 name = "skill-mac-application-launcher"
 dynamic = ["version"]
