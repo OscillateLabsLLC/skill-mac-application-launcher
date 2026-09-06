@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.4](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.3...v1.0.4) (2026-09-06)
+
+
+### Bug Fixes
+
+* **deps:** cap setuptools below 82 to keep pkg_resources available ([06d1db9](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/06d1db947d224c89939768b80ae91d92632abcec))
+* **deps:** raise Python floor to 3.10 and relock to clear Dependabot alerts ([0962a1e](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/0962a1eeb784d311528b93273ed876614f62be45))
+* **deps:** raise Python floor to 3.10 and relock to clear Dependabot alerts ([44b99aa](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/44b99aa35d69f4ec0457bf6bf3458cbe5494218f))
+
 ## [1.0.3](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.2...v1.0.3) (2026-09-05)
 
 
