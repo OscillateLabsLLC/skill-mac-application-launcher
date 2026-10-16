@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.4...v1.0.5) (2026-10-16)
+
+
+### Bug Fixes
+
+* **deps:** bump urllib3 to 2.8.0 ([e5ccefd](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/e5ccefd1d55730df7def4e5e7aaa77dad5ad6c23))
+* **deps:** bump urllib3 to 2.8.0 ([7dffb8f](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/7dffb8ff1e156a6e1ee55a96ed1343733e72a595))
+
 ## [1.0.4](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.3...v1.0.4) (2026-09-06)
 
 
