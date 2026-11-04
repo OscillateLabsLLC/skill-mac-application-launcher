@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.6](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.5...v1.0.6) (2026-11-04)
+
+
+### Bug Fixes
+
+* **deps:** bump certifi to 2026.10.23 ([ec9a754](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/ec9a7541c42be7b9d63fed47e78e710e9b790d45))
+* **deps:** bump certifi to 2026.10.23 ([13e9002](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/commit/13e9002109d149d7881cab2fc9d7682bed6ddf15))
+
 ## [1.0.5](https://github.com/OscillateLabsLLC/skill-mac-application-launcher/compare/v1.0.4...v1.0.5) (2026-10-16)
 
 
